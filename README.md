@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akshay C.A</h1>
 <h3 align="center">A passionate coding enthusiast from India</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="400" src="![image](https://github.com/AkShAY-Ca7/AkShAY-Ca7/assets/136839322/385fab8c-3961-4b65-a387-23d435534003)">
 
 
 - 🔭 I’m currently working on **improving my coding skills and expanding my knowledge in various programming languages and tools**
