@@ -27,5 +27,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Akshay-C-A&show_icons=true&locale=en&layout=compact" alt="Akshay-C-A" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Akshay-C-A&show_icons=true&locale=en" alt="Akshay-C-A" /></p>
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Akshay-C-A)](https://git.io/streak-stats)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Akshay-C-A&" alt="Akshay-C-A" /></p>
