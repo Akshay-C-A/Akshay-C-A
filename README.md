@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akshay C A</h1>
 <h3 align="center">I'm a tech enthusiast with a strong love for programming and a keen interest in working with computers and innovative technologies.</h3>
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=akshay-c-a&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
