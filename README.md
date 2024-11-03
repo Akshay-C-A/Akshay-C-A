@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Akshay C A</h1>
+<h1 align="center">Hi, I'm Akshay C A</h1>
 <h3 align="center">I'm a tech enthusiast with a strong love for programming and a keen interest in working with computers and innovative technologies.</h3>
 
 <p align="left">
@@ -52,6 +52,6 @@
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akshay-c-a&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshay-c-a&" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akshay-c-a&show_icons=true&locale=en&layout=compact&theme=onedark" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshay-c-a&theme=onedark" alt="GitHub Streak" />
 </p>
